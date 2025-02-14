@@ -1,1 +1,5 @@
-# Java
+# Java.
+
+#### Eu comecei uma materia agora na faculdade, POO --> Programação orientada a objetos, e nela irei usar java...
+#### Então comecei a aprender Java como minha nova linguagem, aqui irei compartilhar alguns codigos feitos por mim...
+
